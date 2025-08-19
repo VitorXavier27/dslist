@@ -35,7 +35,7 @@ public class Game {
 		
 	}
 
-	/*public Game(Long id, String title, Integer year, String genre, String platforms,Double score, String imgUrl,
+	public Game(Long id, String title, Integer year, String genre, String platforms,Double score, String imgUrl,
 			String shortDescription, String longDescription) {
 		this.id = id;
 		this.title = title;
@@ -46,7 +46,7 @@ public class Game {
 		this.imgUrl = imgUrl;
 		this.shortDescription = shortDescription;
 		this.longDescription = longDescription;
-	}*/
+	}
 
 	
 	
